@@ -68,7 +68,7 @@ html = """<!DOCTYPE html>
 </head>
 <body>
     <div class="container">
-        <h1>Automotive Security Camera</h1>
+        <h1>Audi Sec Sim - RIH4KRC</h1>
         <video id="video" autoplay></video>
         <br>
         <button onclick="recordVideo()">Record Video</button>
